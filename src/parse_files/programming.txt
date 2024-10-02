@@ -1,0 +1,40 @@
+1. | Книга: «Грокаем алгоритмы. 2-е изд.» | https://habr.com/ru/companies/piter/articles/847682/
+2. | Писать код для компьютеров сложно, ещё сложнее — писать код для людей | https://habr.com/ru/companies/ruvds/articles/847664/
+3. | DRY-фреймворк: продолжение | https://habr.com/ru/articles/847542/
+4. | Краткий обзор библиотеки dApp | https://habr.com/ru/companies/otus/articles/846770/
+5. | «А можно быстрее?»: практические советы по ускорению обучения нейросетей | https://habr.com/ru/companies/magnus-tech/articles/846012/
+6. | Пишем приложение на C#-стеке | https://habr.com/ru/companies/beeline_cloud/articles/847332/
+7. | Как мы ускорили Modbus в нашем контроллере за неделю | https://habr.com/ru/companies/wirenboard/articles/847214/
+8. | Просто не копируй это | https://habr.com/ru/articles/847178/
+9. | Разбираемся с сетевым программированием на Rust | https://habr.com/ru/companies/otus/articles/846346/
+10. | Планируем потоки как Томас Джефферсон | https://habr.com/ru/companies/beget/articles/847208/
+11. | Scala Digest. Выпуск 21 | https://habr.com/ru/companies/tbank/articles/847174/
+12. | Как устранить первопричину уязвимостей безопасности памяти | https://habr.com/ru/companies/ruvds/articles/847056/
+13. | Почему нет достойных форматтеров кода для Java? | https://habr.com/ru/companies/spring_aio/articles/846278/
+14. | Как подружить Gorm и PostGIS, решение промышленного уровня | https://habr.com/ru/articles/847048/
+15. | Koin: как сделать свой DI за 10 минут | https://habr.com/ru/companies/ozontech/articles/846482/
+16. | Эксперименты с фиксированной статистической мощностью: вопрос не в подглядывании, а в том, на что именно смотрят | https://habr.com/ru/companies/wunderfund/articles/846914/
+17. | Чем отличается изобретатель вечного двигателя от просто изобретателя? | https://habr.com/ru/articles/828652/
+18. | Чистый код: Аргументы командной строки | https://habr.com/ru/articles/838464/
+19. | Блоки в Scratch с нуля — обучение для детей 8-9 лет и старше | https://habr.com/ru/companies/pixel_study/articles/846924/
+20. | Программирование для детей 13 лет: особенности, видеоуроки и полезные ресурсы | https://habr.com/ru/companies/pixel_study/articles/846904/
+1. | Spring patterns. Fluent interface | https://habr.com/ru/articles/846864/
+2. | Ruby и встраиваемые системы | https://habr.com/ru/articles/846852/
+3. | Автоматизируем подключение Сisco AnyConnect на Mac OS | https://habr.com/ru/articles/846764/
+4. | Scratch Junior для детей – все о старте программирования для дошкольников | https://habr.com/ru/companies/pixel_study/articles/846784/
+5. | Слово this: управление контекстом выполнения в JavaScript | https://habr.com/ru/companies/otus/articles/845300/
+6. | Создание аппаратно-независимых библиотек для микроконтроллеров | https://habr.com/ru/articles/846656/
+7. | За кулисами разработки: 5 практических советов по созданию плагина для СДО Moodle | https://habr.com/ru/companies/ispring/articles/846596/
+8. | Разработчик из первоклассника за 6 часов | https://habr.com/ru/companies/reksoft/articles/846548/
+9. | А что, так можно было? | https://habr.com/ru/articles/846396/
+10. | Критическая уязвимость с оценкой CVSS 9,9 обнаружена в GNU/Linux | https://habr.com/ru/companies/spring_aio/articles/846498/
+11. | Как я прогнозирую полярные сияния с помощью открытых данных, Python и облачного сервера | https://habr.com/ru/companies/selectel/articles/846436/
+12. | USB GPIO EXTENDER – ещё одна возможность управления нагрузками с роутера Микротик | https://habr.com/ru/articles/846430/
+13. | Вот здесь точно нужен рефакторинг, есть идеи? | https://habr.com/ru/articles/846204/
+14. | Ещё раз о методах расширения классов в C++ | https://habr.com/ru/articles/846394/
+15. | Object.freeze и Object.seal в JS | https://habr.com/ru/companies/otus/articles/845226/
+16. | Создаем свою простую (C++) библиотеку с документацией, CMake и блекджеком | https://habr.com/ru/companies/timeweb/articles/845074/
+17. | Научно-исследовательский кружок по ИИ в робототехнике для студентов и взрослых | https://habr.com/ru/companies/sberbank/articles/845824/
+18. | Черепаха в лабиринте или осенний марафон | https://habr.com/ru/articles/824644/
+19. | Простая нейронная сеть на C++ | https://habr.com/ru/articles/846088/
+20. | Небольшая хитрость для простого взаимодействия Rust и C++ | https://habr.com/ru/companies/beget/articles/846086/
